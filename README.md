@@ -11,4 +11,4 @@ Tiny computer specification tool or program that shows info about
 * GPU name
 * GPU total memory
 
-## Currently this is released for testing in future might be updated with more features and better Library soon.
+## Currently this is released for testing in future might be updated with more features and better Library.
