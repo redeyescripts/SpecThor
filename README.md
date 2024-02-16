@@ -11,4 +11,6 @@ Tiny computer specification tool or program that shows info about
 * GPU name
 * GPU total memory
 
+![img](https://i.imgur.com/ekzi8aN.png)
+
 ## Currently this is released for testing in future might be updated with more features and better Library.
